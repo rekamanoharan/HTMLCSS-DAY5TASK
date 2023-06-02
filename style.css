@@ -1,0 +1,53 @@
+.form{
+    border: 2px solid black;
+    width:150px;
+    height: 150px;
+    margin: 50px;
+    display: table;
+    float: left;
+}
+.container{
+    max-width: 800px !important;
+    margin:0 auto;
+    padding: 10px 0;
+    display: table;
+    border: 2px solid #333;
+}
+.square{
+    background: white;
+    width: 90px;
+    margin: 20px;
+    height: 100px;
+    justify-content:"center";
+    border-radius: 50%;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+.headings{
+    text-align: center;
+}
+.main{
+
+    border: 2px solid #333;
+    padding: 20px 0;
+    max-width:80%;
+    margin:0 auto;
+    /* display: table; */
+}
+html{
+    width: 100%;
+}
+.input{
+    /* margin: 10px; */
+    float:left;
+    /* display: table; */
+}
+.button-wrapper{
+    width: 50%;
+    display: table;
+    margin: 0 auto;
+}
+#cars{
+    width:100px;
+}
